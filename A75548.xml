@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arguments for toleration. Publish'd for the satisfaction of all moderate men.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75548</idno>
+            <idno type="STC">Wing A3644</idno>
+            <idno type="STC">Thomason E402_17</idno>
+            <idno type="STC">ESTC R201826</idno>
+            <idno type="EEBO-CITATION">99862317</idno>
+            <idno type="PROQUEST">99862317</idno>
+            <idno type="VID">114471</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114471)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E402[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Arguments for toleration. Publish'd for the satisfaction of all moderate men.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact in favor of toleration.</note>
+                  <note>Annotation on Thomason copy: "Aug: 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious tolerance --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114471:1" rendition="simple:additions"/>
+            <p>ARGVMENTS FOR Toleration.</p>
+            <p>Publiſh'd for the ſatisfaction of all <hi>Moderate Men.</hi>
+            </p>
+            <q>
+               <bibl>ZACH. 13.6.</bibl>
+               <p>And one ſhall ſay unto him, What are theſe wounds in thine hands? Then hee ſhall anſwer, Thoſe with which I was wounded in the houſe of my Friends.</p>
+            </q>
+            <p>LONDON, Printed by <hi>Richard Cotes,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_premises">
+            <pb facs="tcp:114471:2"/>
+            <pb n="1" facs="tcp:114471:2"/>
+            <head>
+               <hi>Arguments for Toleration;</hi> Publiſh'd for the ſatisfaction of all Moderate Men.</head>
+            <head type="sub">Twenty Four undeniable Premiſes from which a <hi>Toleration</hi> may be thus pleaded for:</head>
+            <list>
+               <item>1 <seg rend="decorInit">H</seg>Eavenly wiſdome is firſt pure, and then peaceable; therefore we ought to have a Toleration of impure Doctrines, for hea<g ref="char:EOLhyphen"/>venly wiſdome will not ſuit with an earthly Kingdome.</item>
+               <item>2 When men ſhake off Truth, they wil ſhake off Ma<g ref="char:EOLhyphen"/>giſtracy; therefore there ought to bee a Toleration of errors: for why ſhould our ſoveraign Lords the People be in ſubjection?</item>
+               <item>3 The Papiſts have long expected to ſee Popery flouriſh again in <hi>England;</hi> therefore there ſhould bee a Toleration: for were it not pity they ſhould loſe the fruit of ſo much induſtry?</item>
+               <item>4 If Errors were not tolerated, the Devill would bee enraged; therefore there ſhould bee a Toleration: for
+<pb n="2" facs="tcp:114471:3"/>who knows what deſperate courſes hee will put his ſer<g ref="char:EOLhyphen"/>vants upon, if this be denyed?</item>
+               <item>5 If there bee not a Toleration of Errors, the Truth will have more favor then Error; therefore there ought to be a Toleration: for wee apprehend it ſuitable to Ju<g ref="char:EOLhyphen"/>ſtice, to deale impartially.</item>
+               <item>6 Men are naturally prone to Error; therefore there ought to be a Toleration: for if thoſe things which are naturall bee not tolerated, what will become of naturall Liberty?</item>
+               <item>7 Errors have thrived well upon a connivence; therefore they ought to have a Toleration: for it is like they will thrive ſo much the better, and afford a plenti<g ref="char:EOLhyphen"/>full increaſe.</item>
+               <item>8 The eyes of many Kingdomes are upon <hi>England,</hi> to ſee what Reformation it will bring forth; therefore we ſhould have a Toleration: that wee may at once de<g ref="char:EOLhyphen"/>ceive all their expectations.</item>
+               <item>9 It is recorded in Scripture, as a commendation of divers Kings, that they ſuppreſt falſe Worſhip; there<g ref="char:EOLhyphen"/>fore there muſt be a Toleration of falſe Worſhip: for then was then, and now is now.</item>
+               <item>10 The Goſpel-prophecy (<hi>Zachary</hi> 13) would be ful<g ref="char:EOLhyphen"/>fil'd, if Errors were ſuppreſt by the Magiſtrate; there<g ref="char:EOLhyphen"/>fore there ought to bee a Toleration: for wee like not ſuch bloody Tenets.</item>
+               <item>11 The Parliament have declared that they will not let looſe the reines of Government; therefore there ought to be a generall Toleration; that ſo they might falſifie their Profeſſions.</item>
+               <pb n="3" facs="tcp:114471:3"/>
+               <item> 12 <hi>England</hi> hath Covenanted the ſuppreſſion of Er<g ref="char:EOLhyphen"/>rors; therefore there ought to be a Toleration of them eſtabliſht; that wee may declare to the world that wee intend not to keep our Covenant.</item>
+               <item>13 The people of God proſper'd, when they made and kept the like Covenant, (2 <hi>Chron.</hi> 15.) therefore there ſhould bee a Toleration, leſt <hi>England</hi> alſo ſhould pro<g ref="char:EOLhyphen"/>ſper.</item>
+               <item>14 God threateneth the Sword to a Nation for brea<g ref="char:EOLhyphen"/>king Covenant; therefore we ſhould have a Toleration againſt Covenant, that the Sword may goe once more through the Land.</item>
+               <item>15 <hi>England</hi> hath kept a day of Humiliation for the ſuppreſſion of Errors; therefore it muſt yeeld to a Toleration, that the world may ſay wee mock God in our Faſts.</item>
+               <item>16 <hi>England</hi> hath beene many Years famous for the Goſpel; therefore now they ſhould be for a Toleration of things contrary to it; that it may follow new faſhions in Religion, as well as in Apparell.</item>
+               <item>17 In theſe latter times all ſorts of Errors doe vend apace; therefore now there ought to be a Toleration of them; for elſe the Father of Lies will loſe his beſt Market.</item>
+               <item>18 The Foxes muſt bee taken for ſpolling the Vines, (<hi>Canticles</hi> 2.15.) therefore there muſt be a Toleration of theſe Foxes: for if the bramble may reign, he cares not what becomes of the tender grapes.</item>
+               <item>19 God complains of Tolerations of Errors and Se<g ref="char:EOLhyphen"/>ducers, (<hi>Revel.</hi> 2.) therefore there ought to be Tolera<g ref="char:EOLhyphen"/>tions of them; how elſe ſhould we juſtifie <hi>Pergamus</hi> and <hi>Thyatira?</hi>
+               </item>
+               <pb n="4" facs="tcp:114471:4"/>
+               <item> 20 The ſame corruptions which incline men to plead for Error, will incline them to perſecute Truth; there<g ref="char:EOLhyphen"/>fore there ought to be Toleration of Error, to make way for the perſecuting of Truth.</item>
+               <item>21 Evill men, and Seducers will waxe worſe and worſe, (2 <hi>Tim</hi> 3.13.) therefore they ought to be tolera<g ref="char:EOLhyphen"/>ted: how elſe will they come to their perfection? for they are not yet bad enough.</item>
+               <item>22 Magiſtrates are appointed by God for a terrour to evill works; therefore the ſpreading of Error is to bee ſheltred under a Toleration; leſt the Magiſtrates ſhould be a terrour to it.</item>
+               <item>23 Errors deſtroy mens ſoules and bodies eternally: therefore they are to be tolerated; that ſo they which are minded to goe to hell, may carry company enough with them.</item>
+               <item>24 If we ſet not up a Toleration, we may want occa<g ref="char:EOLhyphen"/>ſion of War with our Brethren; therefore there ſhould bee a Toleration; that wee may requite them for their Brotherly aſſiſtance.</item>
+            </list>
+         </div>
+         <div type="list_of_premises">
+            <head>Twelve Premiſes laid down by way of Suppoſition, upon which a Toleration may be inferred by undeni<g ref="char:EOLhyphen"/>able conſequence.</head>
+            <list>
+               <item>1 THe people of God want matter to make them ſad; therefore there ought to be a Toleration of groſſe Errors: for if any thing in the world will grieve them, this will.</item>
+               <item>2 The Miniſters of Chriſt ſtand in need of diſcou<g ref="char:EOLhyphen"/>ragement; therefore there ought to bee a Toleration: leſt they ſhould finde too much fruit of their Miniſtery.</item>
+               <pb n="5" facs="tcp:114471:4"/>
+               <item> 3 The Goſpel thrives too well; therefore there ſhould bee a Toleration: that ſo the Enemies of the Goſpel may have the better advantage to hinder it.</item>
+               <item>4 God is not enough diſhonored; therefore there is a neceſsity of a Toleration: that ignorant people may be inſtructed in ſuch Doctrines as tend to Gods diſho<g ref="char:EOLhyphen"/>nour.</item>
+               <item>5 The tragedy of <hi>Munſter</hi> muſt be acted here; there<g ref="char:EOLhyphen"/>fore there muſt be a Toleration: for liberty of Conſci<g ref="char:EOLhyphen"/>ence was the ſtirrup by which the Sectaries were moun<g ref="char:EOLhyphen"/>ted there.</item>
+               <item>6 Reformation would goe on too faſt, if it were not for toleration; therefore there muſt be a Toleration for wee would breake Chriſts bonds, and caſt away his cords.</item>
+               <item>7 Seducers want encouragement; therefore there muſt be a Toleration: for many had rather goe alone to hell in quiet, then run upon the Magiſtrates Sword with company.</item>
+               <item>8 Magiſtrates ought to meddle onely with the ſecond Table; therefore there ought to be a Toleration of all ſins againſt the firſt Table: for why ſhould Magiſtrates take care for Gods glory?</item>
+               <item>9 The enemies of Religion ſhould have more matter adminiſtred to reproach Chriſtianity; therefore there ſhould bee a Toleration to open the mouths of blaſ<g ref="char:EOLhyphen"/>phemers.</item>
+               <item>10 Liberty of error is one part of our Chriſtian free<g ref="char:EOLhyphen"/>dome; therefore there ought to be a Toleration of it, that ſo we may ſtand faſt in our liberty: for this is our Liberty of Conſcience.</item>
+               <pb n="6" facs="tcp:114471:5"/>
+               <item> 11 We cryed out formerly upon the Prelates for fa<g ref="char:EOLhyphen"/>vouring ſome Errors; therefore wee would have a To<g ref="char:EOLhyphen"/>leration of all now; that ſo we may make them amends with advantage.</item>
+               <item>12 The provocations of <hi>Englands</hi> fins are too little; therefore there ſhould bee a Toleration, to fill up the meaſure of our iniquities, that we may bee ripe for de<g ref="char:EOLhyphen"/>ſtruction.</item>
+            </list>
+         </div>
+         <epigraph>
+            <bibl>Ezech. 17.17, 18, 19.</bibl>
+            <q>
+               <p>Neither ſhall <hi>Pharaoh</hi> with his mighty Army and great company make for him in the War, by caſting up mounts and building Forts, to cut off many perſons.</p>
+               <p>Seeing he deſpiſed the Oath, by breaking the Covenant, (when to he had given his hand) and hath done all thoſe things, he ſhall not eſcape.</p>
+               <p>Therefore thus ſaith the Lord God, As I live, ſurely mine Oath that hee hath deſpiſed, and my Covenant that hee hath broken; even it will recompence upon his own head.</p>
+            </q>
+         </epigraph>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
